@@ -79,7 +79,7 @@ window.addEventListener('DOMContentLoaded', async function() {
       forecastElement.innerHTML =``
 
       // debug: console.log(json.forecast.forecastday[0].day.condition)
-      // Show number of forecast days
+
    
       // Add forecast title - # of days to forecast
       forecastElement.insertAdjacentHTML(
